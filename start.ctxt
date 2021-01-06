@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=start
+comment1.params=id
+comment1.target=void\ startStudent(int)
+comment2.params=op
+comment2.target=void\ choice(int)
+comment3.params=
+comment3.target=void\ startTeacher()
+comment4.params=op
+comment4.target=void\ choice2(int)
+numComments=5
